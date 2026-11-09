@@ -4,7 +4,7 @@ Desktop app for [Steel Workflow](https://steel-workflow-frontend.vercel.app) on 
 
 ## Download
 
-Get the latest installer from the **[Releases](https://github.com/88kamal/steel-workflow-desktop/releases/latest)** page,
+Get the latest installer from the **[Releases](https://github.com/88kamal/steel-desktop/releases/latest)** page,
 or from the download page at <https://steel-workflow-frontend.vercel.app/download>.
 
 | Platform | File |
